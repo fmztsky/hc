@@ -1,5 +1,13 @@
 <resources>
 
     <string name="app_name">Music</string>
+    <string name="tabbar_playlist">播放列表</string>
+    <string name="tabbar_artist">艺术家</string>
+    <string name="tabbar_album">专辑</string>
+    <string name="tabbar_song">歌曲</string>
+    <string name="tabbar_cloudmusic">云音乐</string>
+    <string name="tabbar_style">风格</string>
+    <string name="tabbar_search">搜索</string>
+    <string name="tabbar_folder">文件夹</string>
 
 </resources>
